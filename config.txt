@@ -1,0 +1,5 @@
+Encryption method: AES
+------------------------
+bosco:boscosDiary:boscosFinances:readme:boscosSuspiciousDoc
+reginald:regsCerts:regsFinances:regsTaxInfo:readme
+tiff82:tiffsClassified:tiffsWarrants:tiffsPetPics:readme
