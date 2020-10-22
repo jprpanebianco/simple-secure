@@ -1,5 +1,5 @@
 # Simple File Security Environment
-This project was implemented for a computer security class. The class was pretty elementary, so there is nothing too compilcated here. For the project, I decided to use the java libraries for AES encryption/decryption, password and key hashing, and some simple file management. I had conceptualized this project as being stateless, so the utility classes do not hold state. This makes the code very clunky in places, as you can probably see. 
+This project was implemented for a computer security class. The class was pretty elementary, so there is nothing too complicated here. For the project, I decided to use the java libraries for AES encryption/decryption, password and key hashing, and some simple file management. I had conceptualized this project as being stateless, so the utility classes do not hold state. This makes the code very clunky in places, as you can probably see. 
 
 The sample passphrase, passwords and users are commented in the code.
 
